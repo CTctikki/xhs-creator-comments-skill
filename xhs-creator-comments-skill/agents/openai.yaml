@@ -1,0 +1,4 @@
+interface:
+  display_name: "XHS Creator Comments"
+  short_description: "Export Xiaohongshu creator comments to Excel."
+  default_prompt: "Use $xhs-creator-comments-skill to export comments from discoverable notes on a Xiaohongshu creator homepage to Excel."
